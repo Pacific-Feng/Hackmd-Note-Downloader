@@ -16,7 +16,7 @@ Lu-Ying Wu
 
 ### 1. Create cookies.json and put it in your folder
 
-* See the [reference](https://github.com/JieHong-Liu/HackMD_IMG_downloader/tree/main)
+* See the [reference](https://github.com/JieHong-Liu/HackMD_IMG_downloader/tree/main) from JieHong-Liu
 
 ### 2. Put all the file in your folder
 
