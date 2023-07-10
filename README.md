@@ -2,11 +2,11 @@
 
 ## Author
 
-Min-Feng Hsieh ()
+Min-Feng Hsieh ([Pacific-Feng](https://github.com/Pacific-Feng))
 
-Jie-Hong Liu ()
+Jie-Hong Liu ([JieHong-Liu](https://github.com/JieHong-Liu))
 
-Lu-Ying Wu ()
+Lu-Ying Wu
 
 ## Steps
 
