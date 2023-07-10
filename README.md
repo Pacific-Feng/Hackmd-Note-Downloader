@@ -6,7 +6,7 @@ Min-Feng Hsieh ([Pacific-Feng](https://github.com/Pacific-Feng))
 
 Jie-Hong Liu ([JieHong-Liu](https://github.com/JieHong-Liu))
 
-Lu-Ying Wu
+Lu-Ying Wu ([Lu-Ying, Wu](https://github.com/s95209))
 
 ## Steps
 
