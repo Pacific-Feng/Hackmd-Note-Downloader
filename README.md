@@ -54,7 +54,7 @@ Lu-Ying Wu ([Lu-Ying, Wu](https://github.com/s95209))
 1. Run the following command in the terminal:
 
 ```shell
-sh execution.sh
+   sh execution.sh
 ```
 
 <br>
@@ -73,7 +73,11 @@ sh execution.sh
 
 ### **- 1st edition** for New Feature:
 
-* The program now supports tags used by Hackmd (e.g., ###### tags: SNPS Intern).
+* The program now supports tags used by Hackmd, for example below:
+
+```markdown=
+   ###### tags: SNPS Intern
+```
 
 * If you use the "tag" keyword in your notes, the program will automatically categorize the notes into different folders named after your tag for better organization.
 
