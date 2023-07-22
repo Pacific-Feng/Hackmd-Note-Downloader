@@ -14,7 +14,7 @@ def find_urls_in_folder(folder_path, pattern1, pattern2):
     return urls
 
 # 指定要搜尋的資料夾路徑
-folder_path = './hackmd_file'
+folder_path = './unprocessed_hackmd_file'
 
 # 定義要尋找的網址模式
 url_pattern1 = r'https://hackmd.io/_uploads/.*\.jpg'

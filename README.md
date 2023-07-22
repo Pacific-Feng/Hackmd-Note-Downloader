@@ -1,50 +1,85 @@
-# How to store a hackmd file to local
+# How to Store Hackmd Files Locally and Categorize by Tags
 
-## Author
+## Authors
 
 Min-Feng Hsieh ([Pacific-Feng](https://github.com/Pacific-Feng))
 
 Jie-Hong Liu ([JieHong-Liu](https://github.com/JieHong-Liu))
 
-Lu-Ying Wu
+Lu-Ying Wu ([Lu-Ying, Wu](https://github.com/s95209))
+
+<br>
+
+## Reminder
+   * Please make sure that your "README.md" is spelled correctly (alphabet, capitalization ...,etc )
+<br>
 
 ## Steps
 
-### 0. Create a folder in your workstation
+### 0. Prepare the Workspace
 
-* Called **"Hackmd_Pic_Downloader"** (Or any othere name is fine)
+1. Create a folder on your workstation named **"Hackmd_Pic_Downloader"** (or any other name you prefer).
 
-### 1. Create cookies.json and put it in your folder
+<br>
 
-* See the [reference](https://github.com/JieHong-Liu/HackMD_IMG_downloader/tree/main) from JieHong-Liu
+### 1. Configure Cookies
 
-### 2. Put all the file in your folder
+1. Create a file named **cookies.json** and place it in your workspace folder.
+2. Refer to the [GitHub repository](https://github.com/JieHong-Liu/HackMD_IMG_downloader/tree/main) by JieHong-Liu for details on setting up the cookies.
 
-* picture_finder_imgur.py
-* picture_finder_hackmd.py
-* picture_dowmloader_imgur.py
-* picture_finder_hackmd.py
-* picture_edit.py
-* execution.sh
+<br>
 
-### 3. Create a folder to put your hackmd notes
+### 2. Gather Required Files
 
-* Called **"hackmd_file"** (MUST be this name!)
+1. Ensure the following files are present in your workspace folder:
 
-* You can use the function provided by Hackmd to download all of your notes
+   - picture_finder_imgur.py
+   - picture_finder_hackmd.py
+   - picture_downloader_imgur.py
+   - picture_finder_hackmd.py
+   - picture_edit.py
+   - execution.sh
 
-* Put all your notes in this folder
+<br>
 
-### 4. Run the command below
+### 3. Organize Your Hackmd Notes
 
-```shell=
+1. Create a folder named **"unprocessed_hackmd_file"** (Note: The folder name must be exactly as specified).
+2. Download all your notes using the function provided by Hackmd and save them in this folder.
+
+<br>
+
+### 4. Execute the Process
+
+1. Run the following command in the terminal:
+
+```shell
 sh execution.sh
 ```
 
-### 5. Complete
+<br>
 
-* Now all the files in the "hackmd_file" are all brand new
+### 5. Process Completion
 
-* Also you can find a new dictionary called "downloaded_images" is generated, which store all the pictures you use in your note
+* All files in the **"hackmd_file"** folder are now updated.
 
-* You can download the "hackmd_file" and "downloaded_images" from the workstation and upload them to your github for preservation
+* A new folder named **"downloaded_images"** is generated, containing all the images used in your notes.
+
+* You can now download the "hackmd_file" and "downloaded_images" folders from your workstation and upload them to your GitHub for preservation.
+
+<br><br><br>
+
+----
+
+### **- 1st edition** for New Feature:
+
+* The program now supports tags used by Hackmd (e.g., ###### tags: SNPS Intern).
+
+* If you use the "tag" keyword in your notes, the program will automatically categorize the notes into different folders named after your tag for better organization.
+
+<br>
+
+**Author: Min-Feng Hsieh**  
+**Date: 2023/07/22**
+
+----
