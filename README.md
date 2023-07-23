@@ -86,4 +86,32 @@ Lu-Ying Wu ([Lu-Ying, Wu](https://github.com/s95209))
 **Author: Min-Feng Hsieh**  
 **Date: 2023/07/22**
 
+<br>
+
 ----
+
+### **- 2nd edition** for New Feature:
+
+* The program now supports that you can choose whether you want to categorize you notes by "tag" keyword
+
+* Now the program will pop up the selection below:
+
+```txt =
+   Do you want to classify by the "tags" function?
+
+   -> Enter "y" for YES
+   -> Enter "n" for NO
+```
+
+* Enter **"y"** to categorize you notes by "tag" keyword
+
+* Enter **"n"** to NOT categorize you notes by "tag" keyword
+
+<br>
+
+**Author: Min-Feng Hsieh**  
+**Date: 2023/07/23**
+
+<br>
+
+---
