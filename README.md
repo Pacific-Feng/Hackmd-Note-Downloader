@@ -8,7 +8,7 @@ Jie-Hong Liu ([JieHong-Liu](https://github.com/JieHong-Liu))
 
 Lu-Ying Wu ([Lu-Ying, Wu](https://github.com/s95209))
 
-<br>
+<br>    
 
 ## Reminder
    * Please make sure that your "README.md" is spelled correctly (alphabet, capitalization ...,etc )
